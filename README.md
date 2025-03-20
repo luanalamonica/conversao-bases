@@ -28,10 +28,7 @@ O programa suporta as seguintes conversões:
 Digite um número inteiro: 10<br>
 Binário: 1010
 
-### Conversão de Binário para Inteiro
-
-Digite o número binário: 1010<br>
-Inteiro: 10
+![tela](https://github.com/luanalamonica/conversao-bases/blob/main/tela.png?raw=true)
 
 
 ## Requisitos
