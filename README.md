@@ -25,12 +25,12 @@ O programa suporta as seguintes conversões:
 
 ### Conversão de Inteiro para Binário
 
-Digite um número inteiro: 10 
+Digite um número inteiro: 10<br>
 Binário: 1010
 
 ### Conversão de Binário para Inteiro
 
-Digite o número binário: 1010 
+Digite o número binário: 1010<br>
 Inteiro: 10
 
 
